@@ -38,24 +38,7 @@ This Java project demonstrates core Object-Oriented Programming concepts and adv
 - **Error Handling**: Robust exception handling and input validation
 - **Cross-Platform Compatibility**: Runs on any system with Java installed
 
-## 📁 Project Structure
 
-```
-JavaProject/
-├── src/
-│   └── main/
-│       └── java/
-│           └── Project.java          # Main application class
-├── docs/
-│   └── README.md                     # Project documentation
-├── tests/
-│   └── ProjectTest.java              # Unit tests (if applicable)
-├── lib/                              # External libraries (if any)
-├── resources/                        # Resource files (if any)
-├── .gitignore                        # Git ignore file
-├── LICENSE                           # MIT License file
-└── README.md                         # This file
-```
 
 ## 🛠 Getting Started
 
